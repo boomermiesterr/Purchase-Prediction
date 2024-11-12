@@ -1,0 +1,251 @@
+Gender,Age,Field of Study,Monthly Income,Shopping Frequency,Favorite Product Type,Shopping Channel,Purchase Factor,Buy on Promotion,Delivery Impact,Purchase Time,Purchase Place,Satisfaction Level,Improvement Needed,Info Source,Social Media Influence
+Female,Under 18,Other,"10,001-15,000 THB",More than 4 times,Clothing/Fashion,Other,Discounts/Promotions,No,High Impact,Afternoon,Other,Moderately Satisfied,Delivery Speed,Review Websites,Yes
+Male,18-22,Science,"5,000-10,000 THB",0-1 times,Clothing/Fashion,Websites,Price,Yes,High Impact,Late Night,Home,Very Satisfied,Delivery Speed,Store Apps,Yes
+Other,Over 25,Engineering,"Above 15,000 THB",More than 4 times,Clothing/Fashion,Websites,Discounts/Promotions,No,No Impact,Morning,Work,Not Satisfied,Delivery Speed,Review Websites,No
+Male,Over 25,Liberal Arts,"Below 5,000 THB",2-4 times,Books/Learning Materials,Websites,Convenience,Yes,Moderate Impact,Late Night,Other,Very Satisfied,Ease of Selection,Other,No
+Female,23-25,Other,"10,001-15,000 THB",0-1 times,Books/Learning Materials,Websites,Discounts/Promotions,Yes,No Impact,Late Night,Other,Not Satisfied,Customer Service,Store Apps,Yes
+Male,23-25,Engineering,"5,000-10,000 THB",2-4 times,Daily Necessities,Other,Price,No,No Impact,Afternoon,Home,Not Satisfied,Customer Service,Social Media,No
+Male,Over 25,Other,"10,001-15,000 THB",More than 4 times,Electronics,Websites,Product Warranty,No,Moderate Impact,Evening/Night,Work,Very Satisfied,Customer Service,Review Websites,No
+Other,Over 25,Science,"5,000-10,000 THB",0-1 times,Cosmetics,Social Media,Discounts/Promotions,Yes,Moderate Impact,Morning,Work,Very Satisfied,Payment,Other,Yes
+Female,23-25,Other,"Below 5,000 THB",More than 4 times,Daily Necessities,Mobile Applications,Discounts/Promotions,Yes,No Impact,Late Night,University,Not Satisfied,Payment,Review Websites,Yes
+Other,Under 18,Liberal Arts,"5,000-10,000 THB",More than 4 times,Electronics,Other,Discounts/Promotions,No,High Impact,Afternoon,University,Very Satisfied,Ease of Selection,Social Media,Yes
+Other,18-22,Science,"5,000-10,000 THB",2-4 times,Electronics,Websites,Product Reviews,Yes,No Impact,Afternoon,Work,Moderately Satisfied,Delivery Speed,Review Websites,No
+Male,23-25,Other,"10,001-15,000 THB",More than 4 times,Clothing/Fashion,Mobile Applications,Product Reviews,Yes,No Impact,Evening/Night,Other,Not Satisfied,Delivery Speed,Other,Yes
+Male,18-22,Engineering,"5,000-10,000 THB",More than 4 times,Clothing/Fashion,Mobile Applications,Product Warranty,Yes,High Impact,Evening/Night,University,Moderately Satisfied,Customer Service,Other,Yes
+Other,18-22,Other,"Below 5,000 THB",2-4 times,Electronics,Other,Product Warranty,Yes,High Impact,Morning,Other,Not Satisfied,Customer Service,Other,No
+Other,Over 25,Science,"10,001-15,000 THB",More than 4 times,Clothing/Fashion,Websites,Product Warranty,No,No Impact,Morning,Home,Moderately Satisfied,Delivery Speed,Other,No
+Male,Under 18,Liberal Arts,"10,001-15,000 THB",2-4 times,Daily Necessities,Social Media,Convenience,No,Moderate Impact,Morning,University,Moderately Satisfied,Payment,Other,Yes
+Female,Over 25,Other,"10,001-15,000 THB",2-4 times,Electronics,Mobile Applications,Product Warranty,No,No Impact,Morning,University,Very Satisfied,Customer Service,Store Apps,Yes
+Other,Under 18,Science,"Above 15,000 THB",2-4 times,Books/Learning Materials,Social Media,Product Warranty,No,Moderate Impact,Afternoon,Other,Very Satisfied,Customer Service,Social Media,No
+Other,18-22,Science,"Above 15,000 THB",2-4 times,Books/Learning Materials,Other,Product Reviews,Yes,No Impact,Afternoon,Work,Very Satisfied,Delivery Speed,Review Websites,No
+Male,Over 25,Liberal Arts,"10,001-15,000 THB",2-4 times,Books/Learning Materials,Websites,Product Warranty,Yes,Moderate Impact,Afternoon,University,Not Satisfied,Customer Service,Store Apps,Yes
+Female,23-25,Other,"Above 15,000 THB",0-1 times,Clothing/Fashion,Websites,Convenience,Yes,No Impact,Late Night,Home,Moderately Satisfied,Customer Service,Other,Yes
+Female,Over 25,Other,"10,001-15,000 THB",0-1 times,Clothing/Fashion,Other,Product Warranty,Yes,No Impact,Afternoon,Home,Very Satisfied,Customer Service,Other,No
+Male,23-25,Other,"5,000-10,000 THB",2-4 times,Daily Necessities,Other,Product Reviews,Yes,High Impact,Morning,Home,Very Satisfied,Ease of Selection,Other,No
+Male,Over 25,Other,"10,001-15,000 THB",More than 4 times,Books/Learning Materials,Social Media,Product Reviews,No,Moderate Impact,Morning,University,Moderately Satisfied,Payment,Other,Yes
+Male,Over 25,Science,"Below 5,000 THB",0-1 times,Cosmetics,Social Media,Product Reviews,No,High Impact,Morning,University,Very Satisfied,Customer Service,Social Media,Yes
+Other,Under 18,Science,"Above 15,000 THB",More than 4 times,Cosmetics,Mobile Applications,Price,Yes,Moderate Impact,Late Night,Home,Very Satisfied,Customer Service,Store Apps,Yes
+Female,Under 18,Other,"Above 15,000 THB",More than 4 times,Clothing/Fashion,Mobile Applications,Fast Delivery,Yes,No Impact,Afternoon,Other,Moderately Satisfied,Customer Service,Store Apps,No
+Male,23-25,Other,"Below 5,000 THB",0-1 times,Books/Learning Materials,Other,Convenience,Yes,High Impact,Afternoon,Work,Moderately Satisfied,Customer Service,Store Apps,Yes
+Female,Under 18,Engineering,"10,001-15,000 THB",0-1 times,Daily Necessities,Other,Product Reviews,No,No Impact,Morning,Home,Moderately Satisfied,Delivery Speed,Other,No
+Female,23-25,Engineering,"Below 5,000 THB",2-4 times,Daily Necessities,Other,Discounts/Promotions,Yes,High Impact,Evening/Night,University,Moderately Satisfied,Ease of Selection,Review Websites,No
+Female,23-25,Engineering,"Above 15,000 THB",2-4 times,Clothing/Fashion,Social Media,Product Warranty,No,High Impact,Morning,University,Very Satisfied,Customer Service,Store Apps,Yes
+Male,Under 18,Liberal Arts,"Below 5,000 THB",2-4 times,Clothing/Fashion,Social Media,Discounts/Promotions,No,High Impact,Afternoon,University,Very Satisfied,Delivery Speed,Review Websites,No
+Male,Over 25,Science,"Above 15,000 THB",0-1 times,Daily Necessities,Social Media,Product Warranty,No,Moderate Impact,Late Night,Other,Very Satisfied,Customer Service,Store Apps,No
+Male,23-25,Engineering,"Below 5,000 THB",2-4 times,Electronics,Mobile Applications,Fast Delivery,No,No Impact,Late Night,Home,Very Satisfied,Customer Service,Store Apps,No
+Female,18-22,Other,"Above 15,000 THB",More than 4 times,Clothing/Fashion,Mobile Applications,Discounts/Promotions,No,Moderate Impact,Late Night,Other,Moderately Satisfied,Delivery Speed,Other,Yes
+Female,18-22,Other,"10,001-15,000 THB",0-1 times,Cosmetics,Mobile Applications,Product Reviews,Yes,Moderate Impact,Afternoon,University,Moderately Satisfied,Customer Service,Social Media,No
+Male,Under 18,Engineering,"Below 5,000 THB",2-4 times,Daily Necessities,Other,Price,No,High Impact,Afternoon,University,Very Satisfied,Ease of Selection,Store Apps,No
+Female,Under 18,Other,"5,000-10,000 THB",2-4 times,Clothing/Fashion,Mobile Applications,Product Warranty,No,Moderate Impact,Afternoon,University,Very Satisfied,Customer Service,Review Websites,No
+Other,Over 25,Science,"10,001-15,000 THB",0-1 times,Clothing/Fashion,Mobile Applications,Price,No,High Impact,Morning,University,Moderately Satisfied,Ease of Selection,Store Apps,No
+Male,Under 18,Liberal Arts,"5,000-10,000 THB",2-4 times,Clothing/Fashion,Websites,Product Reviews,Yes,No Impact,Morning,Home,Not Satisfied,Customer Service,Store Apps,Yes
+Other,18-22,Science,"5,000-10,000 THB",0-1 times,Clothing/Fashion,Websites,Convenience,No,High Impact,Morning,Home,Not Satisfied,Delivery Speed,Store Apps,No
+Female,23-25,Science,"5,000-10,000 THB",0-1 times,Electronics,Mobile Applications,Convenience,No,High Impact,Evening/Night,Home,Not Satisfied,Customer Service,Review Websites,No
+Male,Under 18,Liberal Arts,"10,001-15,000 THB",More than 4 times,Daily Necessities,Other,Convenience,No,Moderate Impact,Afternoon,Work,Not Satisfied,Customer Service,Store Apps,Yes
+Female,18-22,Science,"Above 15,000 THB",0-1 times,Books/Learning Materials,Mobile Applications,Price,Yes,No Impact,Late Night,University,Not Satisfied,Delivery Speed,Social Media,Yes
+Female,Over 25,Science,"Below 5,000 THB",More than 4 times,Electronics,Social Media,Convenience,No,High Impact,Afternoon,University,Moderately Satisfied,Customer Service,Store Apps,Yes
+Female,Under 18,Science,"10,001-15,000 THB",More than 4 times,Cosmetics,Websites,Product Warranty,No,No Impact,Late Night,Work,Moderately Satisfied,Customer Service,Store Apps,Yes
+Male,Over 25,Other,"5,000-10,000 THB",More than 4 times,Daily Necessities,Other,Product Warranty,No,No Impact,Evening/Night,Home,Very Satisfied,Ease of Selection,Store Apps,No
+Male,Under 18,Science,"5,000-10,000 THB",2-4 times,Clothing/Fashion,Social Media,Discounts/Promotions,No,Moderate Impact,Morning,Home,Moderately Satisfied,Ease of Selection,Social Media,Yes
+Female,18-22,Engineering,"5,000-10,000 THB",0-1 times,Cosmetics,Social Media,Fast Delivery,Yes,High Impact,Late Night,University,Moderately Satisfied,Payment,Store Apps,Yes
+Male,23-25,Engineering,"Above 15,000 THB",0-1 times,Daily Necessities,Websites,Discounts/Promotions,Yes,No Impact,Afternoon,Work,Moderately Satisfied,Customer Service,Review Websites,No
+Female,18-22,Other,"10,001-15,000 THB",0-1 times,Cosmetics,Social Media,Product Reviews,Yes,High Impact,Morning,Work,Moderately Satisfied,Payment,Review Websites,Yes
+Other,Over 25,Engineering,"10,001-15,000 THB",2-4 times,Daily Necessities,Other,Product Warranty,Yes,Moderate Impact,Morning,Other,Not Satisfied,Customer Service,Social Media,Yes
+Other,Over 25,Science,"10,001-15,000 THB",2-4 times,Daily Necessities,Websites,Fast Delivery,No,Moderate Impact,Morning,Work,Very Satisfied,Ease of Selection,Social Media,No
+Other,Under 18,Liberal Arts,"Above 15,000 THB",More than 4 times,Books/Learning Materials,Websites,Fast Delivery,No,Moderate Impact,Evening/Night,Other,Not Satisfied,Delivery Speed,Review Websites,Yes
+Female,Over 25,Engineering,"5,000-10,000 THB",More than 4 times,Cosmetics,Social Media,Fast Delivery,Yes,High Impact,Evening/Night,Other,Moderately Satisfied,Customer Service,Review Websites,Yes
+Female,Over 25,Engineering,"5,000-10,000 THB",More than 4 times,Electronics,Social Media,Convenience,No,No Impact,Evening/Night,Home,Very Satisfied,Payment,Review Websites,Yes
+Male,Under 18,Science,"Above 15,000 THB",0-1 times,Books/Learning Materials,Websites,Price,Yes,No Impact,Evening/Night,Home,Very Satisfied,Payment,Other,No
+Other,23-25,Liberal Arts,"Above 15,000 THB",0-1 times,Daily Necessities,Mobile Applications,Convenience,No,High Impact,Evening/Night,Other,Very Satisfied,Delivery Speed,Review Websites,Yes
+Female,Under 18,Other,"10,001-15,000 THB",0-1 times,Clothing/Fashion,Social Media,Product Reviews,Yes,No Impact,Morning,Home,Very Satisfied,Ease of Selection,Social Media,Yes
+Male,Over 25,Science,"10,001-15,000 THB",2-4 times,Cosmetics,Websites,Fast Delivery,No,High Impact,Evening/Night,Home,Not Satisfied,Delivery Speed,Store Apps,Yes
+Male,Under 18,Engineering,"Above 15,000 THB",2-4 times,Electronics,Websites,Product Warranty,Yes,Moderate Impact,Morning,Work,Very Satisfied,Payment,Store Apps,Yes
+Other,Over 25,Other,"Below 5,000 THB",2-4 times,Daily Necessities,Websites,Price,Yes,Moderate Impact,Morning,Other,Very Satisfied,Delivery Speed,Review Websites,Yes
+Male,Over 25,Liberal Arts,"Above 15,000 THB",More than 4 times,Books/Learning Materials,Social Media,Product Reviews,Yes,High Impact,Afternoon,Home,Moderately Satisfied,Customer Service,Other,No
+Female,23-25,Science,"Below 5,000 THB",2-4 times,Clothing/Fashion,Websites,Convenience,Yes,High Impact,Morning,Home,Moderately Satisfied,Customer Service,Store Apps,Yes
+Female,Over 25,Engineering,"Above 15,000 THB",0-1 times,Cosmetics,Social Media,Discounts/Promotions,No,No Impact,Morning,Home,Not Satisfied,Customer Service,Social Media,No
+Female,Under 18,Other,"Above 15,000 THB",0-1 times,Cosmetics,Websites,Fast Delivery,No,Moderate Impact,Morning,Work,Very Satisfied,Delivery Speed,Review Websites,No
+Female,23-25,Science,"Above 15,000 THB",2-4 times,Daily Necessities,Social Media,Discounts/Promotions,Yes,No Impact,Afternoon,University,Not Satisfied,Customer Service,Other,No
+Male,Under 18,Science,"Above 15,000 THB",2-4 times,Cosmetics,Other,Discounts/Promotions,Yes,No Impact,Evening/Night,University,Very Satisfied,Ease of Selection,Other,No
+Other,18-22,Liberal Arts,"Below 5,000 THB",0-1 times,Daily Necessities,Websites,Convenience,No,High Impact,Evening/Night,Home,Very Satisfied,Delivery Speed,Review Websites,No
+Female,23-25,Liberal Arts,"Below 5,000 THB",2-4 times,Daily Necessities,Websites,Price,No,No Impact,Afternoon,University,Not Satisfied,Customer Service,Other,Yes
+Male,23-25,Liberal Arts,"Below 5,000 THB",More than 4 times,Electronics,Mobile Applications,Fast Delivery,Yes,No Impact,Afternoon,University,Moderately Satisfied,Customer Service,Review Websites,Yes
+Female,23-25,Liberal Arts,"10,001-15,000 THB",2-4 times,Cosmetics,Social Media,Fast Delivery,No,High Impact,Evening/Night,Work,Not Satisfied,Customer Service,Other,Yes
+Male,Over 25,Science,"Below 5,000 THB",2-4 times,Clothing/Fashion,Websites,Price,No,No Impact,Late Night,Other,Not Satisfied,Ease of Selection,Social Media,Yes
+Other,Over 25,Engineering,"Below 5,000 THB",More than 4 times,Electronics,Social Media,Product Warranty,Yes,No Impact,Evening/Night,University,Not Satisfied,Delivery Speed,Store Apps,Yes
+Male,18-22,Liberal Arts,"Below 5,000 THB",2-4 times,Electronics,Other,Discounts/Promotions,No,High Impact,Late Night,Home,Moderately Satisfied,Payment,Social Media,Yes
+Male,Over 25,Science,"Above 15,000 THB",0-1 times,Clothing/Fashion,Websites,Product Reviews,Yes,No Impact,Afternoon,University,Very Satisfied,Customer Service,Review Websites,No
+Other,Over 25,Engineering,"Below 5,000 THB",0-1 times,Books/Learning Materials,Other,Fast Delivery,Yes,No Impact,Late Night,Home,Not Satisfied,Ease of Selection,Social Media,Yes
+Male,18-22,Science,"10,001-15,000 THB",More than 4 times,Clothing/Fashion,Other,Discounts/Promotions,No,Moderate Impact,Evening/Night,Home,Not Satisfied,Delivery Speed,Social Media,No
+Other,18-22,Science,"5,000-10,000 THB",2-4 times,Electronics,Other,Convenience,Yes,High Impact,Late Night,Other,Very Satisfied,Payment,Review Websites,Yes
+Other,23-25,Other,"Above 15,000 THB",0-1 times,Books/Learning Materials,Other,Convenience,Yes,Moderate Impact,Late Night,Work,Not Satisfied,Payment,Social Media,Yes
+Other,23-25,Science,"Below 5,000 THB",More than 4 times,Clothing/Fashion,Other,Convenience,No,High Impact,Late Night,Other,Very Satisfied,Ease of Selection,Review Websites,No
+Female,Over 25,Science,"Above 15,000 THB",2-4 times,Clothing/Fashion,Websites,Product Warranty,Yes,No Impact,Late Night,University,Moderately Satisfied,Ease of Selection,Store Apps,No
+Other,Over 25,Engineering,"Above 15,000 THB",2-4 times,Clothing/Fashion,Social Media,Product Reviews,No,High Impact,Morning,Home,Not Satisfied,Payment,Store Apps,No
+Female,Over 25,Liberal Arts,"Below 5,000 THB",More than 4 times,Electronics,Websites,Product Reviews,No,Moderate Impact,Afternoon,Other,Moderately Satisfied,Customer Service,Store Apps,Yes
+Other,18-22,Science,"5,000-10,000 THB",0-1 times,Clothing/Fashion,Mobile Applications,Fast Delivery,No,No Impact,Late Night,Work,Moderately Satisfied,Delivery Speed,Review Websites,No
+Male,Over 25,Other,"Below 5,000 THB",2-4 times,Cosmetics,Websites,Discounts/Promotions,Yes,High Impact,Evening/Night,Other,Not Satisfied,Customer Service,Store Apps,No
+Female,23-25,Other,"10,001-15,000 THB",2-4 times,Books/Learning Materials,Other,Convenience,No,Moderate Impact,Morning,Other,Not Satisfied,Delivery Speed,Store Apps,No
+Male,Under 18,Science,"Below 5,000 THB",0-1 times,Clothing/Fashion,Websites,Product Reviews,Yes,No Impact,Late Night,Other,Very Satisfied,Ease of Selection,Other,No
+Other,Over 25,Science,"10,001-15,000 THB",More than 4 times,Clothing/Fashion,Other,Price,Yes,High Impact,Afternoon,Work,Not Satisfied,Payment,Other,No
+Other,Over 25,Other,"Above 15,000 THB",0-1 times,Daily Necessities,Social Media,Convenience,Yes,Moderate Impact,Evening/Night,Home,Not Satisfied,Payment,Store Apps,Yes
+Female,Over 25,Other,"5,000-10,000 THB",More than 4 times,Clothing/Fashion,Social Media,Fast Delivery,No,High Impact,Afternoon,Work,Moderately Satisfied,Ease of Selection,Other,Yes
+Other,18-22,Science,"5,000-10,000 THB",0-1 times,Clothing/Fashion,Other,Product Warranty,No,No Impact,Evening/Night,Home,Very Satisfied,Customer Service,Review Websites,No
+Female,23-25,Engineering,"5,000-10,000 THB",More than 4 times,Cosmetics,Websites,Convenience,No,High Impact,Afternoon,University,Moderately Satisfied,Payment,Review Websites,Yes
+Female,18-22,Other,"Above 15,000 THB",2-4 times,Cosmetics,Mobile Applications,Discounts/Promotions,Yes,Moderate Impact,Late Night,Home,Very Satisfied,Customer Service,Social Media,No
+Other,23-25,Other,"Above 15,000 THB",2-4 times,Cosmetics,Mobile Applications,Product Reviews,Yes,No Impact,Morning,Work,Very Satisfied,Delivery Speed,Store Apps,Yes
+Male,Over 25,Liberal Arts,"Above 15,000 THB",More than 4 times,Daily Necessities,Websites,Fast Delivery,No,High Impact,Afternoon,University,Not Satisfied,Delivery Speed,Other,Yes
+Female,23-25,Engineering,"Above 15,000 THB",More than 4 times,Electronics,Mobile Applications,Fast Delivery,No,Moderate Impact,Afternoon,University,Very Satisfied,Ease of Selection,Other,No
+Female,Over 25,Liberal Arts,"Above 15,000 THB",More than 4 times,Cosmetics,Mobile Applications,Convenience,Yes,High Impact,Late Night,Other,Very Satisfied,Payment,Review Websites,Yes
+Female,Over 25,Other,"10,001-15,000 THB",0-1 times,Books/Learning Materials,Websites,Product Reviews,No,No Impact,Evening/Night,Other,Not Satisfied,Customer Service,Review Websites,Yes
+Male,Over 25,Other,"10,001-15,000 THB",2-4 times,Clothing/Fashion,Websites,Fast Delivery,Yes,Moderate Impact,Evening/Night,Other,Moderately Satisfied,Customer Service,Social Media,No
+Male,18-22,Science,"5,000-10,000 THB",2-4 times,Daily Necessities,Other,Product Reviews,No,Moderate Impact,Late Night,Other,Not Satisfied,Delivery Speed,Social Media,Yes
+Female,18-22,Science,"5,000-10,000 THB",0-1 times,Books/Learning Materials,Mobile Applications,Convenience,Yes,No Impact,Afternoon,Home,Not Satisfied,Payment,Other,Yes
+Male,Over 25,Other,"Above 15,000 THB",More than 4 times,Cosmetics,Social Media,Discounts/Promotions,No,No Impact,Morning,University,Not Satisfied,Payment,Store Apps,Yes
+Other,18-22,Other,"Below 5,000 THB",2-4 times,Clothing/Fashion,Websites,Convenience,No,Moderate Impact,Evening/Night,Other,Moderately Satisfied,Customer Service,Store Apps,No
+Other,Under 18,Other,"Below 5,000 THB",More than 4 times,Electronics,Social Media,Product Warranty,No,No Impact,Late Night,Home,Very Satisfied,Ease of Selection,Other,Yes
+Female,23-25,Liberal Arts,"Below 5,000 THB",0-1 times,Daily Necessities,Mobile Applications,Fast Delivery,Yes,Moderate Impact,Evening/Night,Other,Very Satisfied,Customer Service,Review Websites,Yes
+Female,Over 25,Engineering,"Above 15,000 THB",0-1 times,Daily Necessities,Social Media,Discounts/Promotions,No,High Impact,Afternoon,Home,Not Satisfied,Payment,Review Websites,No
+Female,Over 25,Other,"5,000-10,000 THB",2-4 times,Daily Necessities,Websites,Product Warranty,No,Moderate Impact,Morning,University,Moderately Satisfied,Ease of Selection,Other,No
+Other,18-22,Engineering,"Above 15,000 THB",More than 4 times,Electronics,Social Media,Discounts/Promotions,No,No Impact,Afternoon,Work,Moderately Satisfied,Delivery Speed,Social Media,Yes
+Male,18-22,Other,"5,000-10,000 THB",More than 4 times,Books/Learning Materials,Mobile Applications,Product Reviews,No,Moderate Impact,Evening/Night,University,Moderately Satisfied,Payment,Store Apps,Yes
+Male,18-22,Engineering,"5,000-10,000 THB",More than 4 times,Cosmetics,Mobile Applications,Discounts/Promotions,Yes,Moderate Impact,Afternoon,University,Moderately Satisfied,Customer Service,Other,No
+Female,Over 25,Science,"10,001-15,000 THB",0-1 times,Cosmetics,Other,Fast Delivery,Yes,Moderate Impact,Afternoon,Other,Very Satisfied,Ease of Selection,Social Media,No
+Other,23-25,Liberal Arts,"Above 15,000 THB",2-4 times,Electronics,Other,Product Warranty,No,Moderate Impact,Late Night,Other,Not Satisfied,Ease of Selection,Store Apps,Yes
+Male,23-25,Science,"Above 15,000 THB",0-1 times,Electronics,Mobile Applications,Product Reviews,No,Moderate Impact,Evening/Night,Work,Very Satisfied,Ease of Selection,Store Apps,Yes
+Male,Over 25,Engineering,"Above 15,000 THB",0-1 times,Cosmetics,Social Media,Product Reviews,No,Moderate Impact,Evening/Night,University,Not Satisfied,Customer Service,Review Websites,No
+Male,23-25,Liberal Arts,"10,001-15,000 THB",2-4 times,Daily Necessities,Websites,Fast Delivery,Yes,Moderate Impact,Evening/Night,Home,Very Satisfied,Delivery Speed,Social Media,Yes
+Female,18-22,Liberal Arts,"10,001-15,000 THB",2-4 times,Daily Necessities,Mobile Applications,Product Warranty,Yes,High Impact,Late Night,University,Very Satisfied,Ease of Selection,Other,Yes
+Female,Under 18,Other,"5,000-10,000 THB",More than 4 times,Clothing/Fashion,Mobile Applications,Discounts/Promotions,No,Moderate Impact,Afternoon,Work,Not Satisfied,Payment,Store Apps,No
+Female,Under 18,Liberal Arts,"5,000-10,000 THB",More than 4 times,Electronics,Websites,Discounts/Promotions,Yes,Moderate Impact,Morning,Work,Very Satisfied,Delivery Speed,Review Websites,No
+Male,18-22,Liberal Arts,"Above 15,000 THB",0-1 times,Daily Necessities,Websites,Convenience,Yes,Moderate Impact,Late Night,University,Not Satisfied,Ease of Selection,Social Media,No
+Male,Over 25,Science,"10,001-15,000 THB",More than 4 times,Clothing/Fashion,Other,Product Reviews,Yes,No Impact,Afternoon,Home,Moderately Satisfied,Delivery Speed,Review Websites,No
+Other,18-22,Other,"10,001-15,000 THB",0-1 times,Cosmetics,Websites,Price,No,No Impact,Late Night,Home,Very Satisfied,Delivery Speed,Store Apps,Yes
+Male,18-22,Other,"Above 15,000 THB",0-1 times,Daily Necessities,Social Media,Product Reviews,No,High Impact,Afternoon,Work,Very Satisfied,Ease of Selection,Social Media,Yes
+Male,Under 18,Other,"Above 15,000 THB",2-4 times,Books/Learning Materials,Social Media,Product Warranty,Yes,No Impact,Morning,Work,Not Satisfied,Ease of Selection,Other,No
+Female,18-22,Liberal Arts,"10,001-15,000 THB",2-4 times,Clothing/Fashion,Other,Product Reviews,No,High Impact,Afternoon,Work,Moderately Satisfied,Customer Service,Review Websites,Yes
+Female,Under 18,Liberal Arts,"5,000-10,000 THB",0-1 times,Clothing/Fashion,Social Media,Fast Delivery,No,No Impact,Late Night,University,Moderately Satisfied,Customer Service,Other,Yes
+Female,23-25,Engineering,"Above 15,000 THB",0-1 times,Cosmetics,Social Media,Price,No,High Impact,Afternoon,Work,Very Satisfied,Delivery Speed,Store Apps,No
+Other,18-22,Other,"10,001-15,000 THB",More than 4 times,Books/Learning Materials,Social Media,Price,No,Moderate Impact,Evening/Night,Home,Moderately Satisfied,Payment,Review Websites,Yes
+Other,Over 25,Science,"5,000-10,000 THB",0-1 times,Clothing/Fashion,Websites,Convenience,Yes,Moderate Impact,Evening/Night,University,Moderately Satisfied,Delivery Speed,Social Media,No
+Female,Under 18,Other,"10,001-15,000 THB",2-4 times,Daily Necessities,Social Media,Fast Delivery,No,Moderate Impact,Late Night,Home,Very Satisfied,Delivery Speed,Store Apps,No
+Female,18-22,Liberal Arts,"Above 15,000 THB",0-1 times,Electronics,Websites,Price,Yes,Moderate Impact,Afternoon,Home,Not Satisfied,Payment,Store Apps,Yes
+Male,Under 18,Engineering,"5,000-10,000 THB",2-4 times,Books/Learning Materials,Mobile Applications,Discounts/Promotions,No,High Impact,Late Night,Home,Moderately Satisfied,Payment,Other,No
+Male,Over 25,Liberal Arts,"Above 15,000 THB",2-4 times,Daily Necessities,Websites,Product Warranty,Yes,No Impact,Evening/Night,University,Not Satisfied,Delivery Speed,Other,No
+Other,18-22,Science,"Below 5,000 THB",More than 4 times,Books/Learning Materials,Social Media,Convenience,Yes,Moderate Impact,Late Night,Other,Moderately Satisfied,Delivery Speed,Store Apps,Yes
+Male,23-25,Science,"Below 5,000 THB",2-4 times,Books/Learning Materials,Social Media,Discounts/Promotions,No,No Impact,Afternoon,Other,Very Satisfied,Ease of Selection,Review Websites,No
+Female,18-22,Science,"5,000-10,000 THB",0-1 times,Daily Necessities,Websites,Discounts/Promotions,No,High Impact,Evening/Night,Work,Very Satisfied,Customer Service,Review Websites,No
+Female,23-25,Engineering,"Above 15,000 THB",More than 4 times,Clothing/Fashion,Social Media,Product Warranty,Yes,High Impact,Afternoon,Other,Very Satisfied,Payment,Social Media,No
+Male,18-22,Other,"Below 5,000 THB",0-1 times,Daily Necessities,Social Media,Product Reviews,No,Moderate Impact,Morning,University,Moderately Satisfied,Delivery Speed,Other,No
+Male,Under 18,Science,"10,001-15,000 THB",0-1 times,Daily Necessities,Social Media,Fast Delivery,Yes,High Impact,Late Night,University,Very Satisfied,Payment,Other,No
+Male,18-22,Science,"5,000-10,000 THB",More than 4 times,Electronics,Social Media,Fast Delivery,Yes,High Impact,Late Night,Other,Moderately Satisfied,Payment,Store Apps,No
+Female,Over 25,Other,"Below 5,000 THB",2-4 times,Electronics,Mobile Applications,Fast Delivery,Yes,Moderate Impact,Afternoon,Other,Very Satisfied,Payment,Store Apps,No
+Male,18-22,Other,"Below 5,000 THB",More than 4 times,Electronics,Other,Price,No,High Impact,Late Night,Home,Moderately Satisfied,Payment,Other,Yes
+Other,23-25,Other,"5,000-10,000 THB",More than 4 times,Daily Necessities,Websites,Fast Delivery,Yes,Moderate Impact,Afternoon,University,Not Satisfied,Customer Service,Review Websites,Yes
+Other,23-25,Science,"Above 15,000 THB",More than 4 times,Clothing/Fashion,Other,Product Warranty,Yes,High Impact,Evening/Night,University,Very Satisfied,Delivery Speed,Store Apps,Yes
+Other,18-22,Liberal Arts,"5,000-10,000 THB",More than 4 times,Daily Necessities,Websites,Convenience,No,High Impact,Evening/Night,Home,Moderately Satisfied,Ease of Selection,Social Media,Yes
+Female,Over 25,Liberal Arts,"10,001-15,000 THB",2-4 times,Daily Necessities,Mobile Applications,Product Warranty,Yes,High Impact,Evening/Night,Work,Moderately Satisfied,Payment,Social Media,No
+Male,23-25,Liberal Arts,"5,000-10,000 THB",More than 4 times,Cosmetics,Other,Product Warranty,Yes,No Impact,Afternoon,Home,Not Satisfied,Payment,Review Websites,Yes
+Male,Under 18,Liberal Arts,"5,000-10,000 THB",More than 4 times,Electronics,Social Media,Fast Delivery,No,Moderate Impact,Afternoon,Home,Not Satisfied,Customer Service,Other,No
+Female,23-25,Engineering,"Above 15,000 THB",More than 4 times,Electronics,Social Media,Fast Delivery,Yes,No Impact,Late Night,University,Moderately Satisfied,Payment,Other,No
+Female,Under 18,Science,"Above 15,000 THB",2-4 times,Electronics,Mobile Applications,Product Reviews,Yes,Moderate Impact,Late Night,Work,Very Satisfied,Ease of Selection,Review Websites,No
+Male,18-22,Engineering,"10,001-15,000 THB",More than 4 times,Cosmetics,Other,Product Warranty,No,High Impact,Afternoon,University,Very Satisfied,Ease of Selection,Social Media,Yes
+Male,23-25,Other,"10,001-15,000 THB",0-1 times,Books/Learning Materials,Social Media,Convenience,Yes,No Impact,Late Night,University,Very Satisfied,Delivery Speed,Other,No
+Male,Over 25,Science,"10,001-15,000 THB",More than 4 times,Daily Necessities,Websites,Product Reviews,Yes,High Impact,Afternoon,Other,Not Satisfied,Payment,Store Apps,Yes
+Male,Under 18,Science,"Above 15,000 THB",2-4 times,Electronics,Mobile Applications,Price,Yes,Moderate Impact,Late Night,Work,Not Satisfied,Delivery Speed,Social Media,No
+Female,Under 18,Science,"Below 5,000 THB",2-4 times,Daily Necessities,Other,Discounts/Promotions,Yes,High Impact,Morning,Home,Very Satisfied,Payment,Social Media,Yes
+Female,Over 25,Science,"5,000-10,000 THB",2-4 times,Clothing/Fashion,Mobile Applications,Discounts/Promotions,No,Moderate Impact,Evening/Night,Home,Not Satisfied,Delivery Speed,Social Media,Yes
+Male,23-25,Engineering,"Below 5,000 THB",2-4 times,Cosmetics,Other,Discounts/Promotions,No,High Impact,Afternoon,University,Moderately Satisfied,Delivery Speed,Social Media,Yes
+Female,18-22,Science,"Below 5,000 THB",0-1 times,Cosmetics,Mobile Applications,Product Warranty,No,Moderate Impact,Evening/Night,University,Not Satisfied,Customer Service,Store Apps,Yes
+Female,18-22,Other,"10,001-15,000 THB",More than 4 times,Electronics,Mobile Applications,Fast Delivery,Yes,High Impact,Afternoon,Other,Not Satisfied,Delivery Speed,Review Websites,No
+Other,18-22,Other,"Above 15,000 THB",0-1 times,Daily Necessities,Websites,Fast Delivery,No,No Impact,Morning,Work,Very Satisfied,Delivery Speed,Review Websites,No
+Male,18-22,Other,"Below 5,000 THB",2-4 times,Cosmetics,Social Media,Discounts/Promotions,No,No Impact,Evening/Night,Other,Not Satisfied,Payment,Review Websites,No
+Male,18-22,Science,"Above 15,000 THB",2-4 times,Cosmetics,Mobile Applications,Discounts/Promotions,Yes,High Impact,Late Night,Home,Very Satisfied,Customer Service,Store Apps,Yes
+Other,Under 18,Engineering,"10,001-15,000 THB",More than 4 times,Books/Learning Materials,Other,Product Warranty,No,High Impact,Late Night,University,Not Satisfied,Ease of Selection,Store Apps,Yes
+Male,18-22,Science,"5,000-10,000 THB",0-1 times,Cosmetics,Websites,Product Reviews,No,High Impact,Late Night,University,Not Satisfied,Customer Service,Store Apps,Yes
+Other,23-25,Liberal Arts,"10,001-15,000 THB",More than 4 times,Daily Necessities,Mobile Applications,Fast Delivery,Yes,No Impact,Afternoon,Home,Moderately Satisfied,Delivery Speed,Social Media,No
+Male,Over 25,Liberal Arts,"5,000-10,000 THB",0-1 times,Clothing/Fashion,Websites,Discounts/Promotions,Yes,Moderate Impact,Morning,University,Moderately Satisfied,Delivery Speed,Social Media,Yes
+Other,Over 25,Other,"5,000-10,000 THB",2-4 times,Electronics,Social Media,Price,Yes,High Impact,Morning,Home,Very Satisfied,Payment,Social Media,No
+Female,18-22,Other,"10,001-15,000 THB",0-1 times,Books/Learning Materials,Mobile Applications,Product Warranty,Yes,High Impact,Morning,Work,Not Satisfied,Customer Service,Social Media,Yes
+Female,23-25,Liberal Arts,"Above 15,000 THB",2-4 times,Books/Learning Materials,Websites,Product Reviews,Yes,High Impact,Late Night,Home,Not Satisfied,Ease of Selection,Social Media,No
+Female,18-22,Liberal Arts,"5,000-10,000 THB",More than 4 times,Daily Necessities,Websites,Product Reviews,No,Moderate Impact,Evening/Night,Home,Very Satisfied,Ease of Selection,Social Media,No
+Male,18-22,Liberal Arts,"10,001-15,000 THB",More than 4 times,Daily Necessities,Websites,Price,No,No Impact,Morning,University,Not Satisfied,Ease of Selection,Other,Yes
+Male,23-25,Science,"10,001-15,000 THB",0-1 times,Cosmetics,Mobile Applications,Fast Delivery,No,High Impact,Evening/Night,Work,Not Satisfied,Delivery Speed,Review Websites,Yes
+Female,23-25,Liberal Arts,"10,001-15,000 THB",2-4 times,Electronics,Websites,Product Reviews,Yes,No Impact,Late Night,Other,Not Satisfied,Ease of Selection,Store Apps,No
+Other,18-22,Science,"5,000-10,000 THB",2-4 times,Daily Necessities,Websites,Fast Delivery,Yes,Moderate Impact,Evening/Night,Work,Not Satisfied,Ease of Selection,Review Websites,No
+Male,23-25,Other,"5,000-10,000 THB",More than 4 times,Cosmetics,Mobile Applications,Convenience,Yes,No Impact,Afternoon,University,Not Satisfied,Customer Service,Store Apps,No
+Other,23-25,Other,"5,000-10,000 THB",More than 4 times,Daily Necessities,Mobile Applications,Price,No,Moderate Impact,Evening/Night,Home,Very Satisfied,Payment,Review Websites,No
+Other,Under 18,Other,"Above 15,000 THB",2-4 times,Electronics,Mobile Applications,Fast Delivery,No,No Impact,Late Night,Work,Not Satisfied,Payment,Other,No
+Male,Over 25,Liberal Arts,"Below 5,000 THB",0-1 times,Cosmetics,Other,Discounts/Promotions,Yes,No Impact,Morning,Other,Moderately Satisfied,Delivery Speed,Other,No
+Male,18-22,Engineering,"5,000-10,000 THB",0-1 times,Daily Necessities,Other,Price,No,High Impact,Evening/Night,Home,Not Satisfied,Ease of Selection,Other,No
+Other,23-25,Other,"Above 15,000 THB",2-4 times,Electronics,Social Media,Price,No,No Impact,Late Night,Other,Very Satisfied,Delivery Speed,Other,No
+Other,Under 18,Science,"Above 15,000 THB",More than 4 times,Cosmetics,Mobile Applications,Price,No,Moderate Impact,Evening/Night,Work,Very Satisfied,Delivery Speed,Store Apps,Yes
+Female,18-22,Science,"Above 15,000 THB",More than 4 times,Electronics,Other,Fast Delivery,No,Moderate Impact,Morning,Other,Not Satisfied,Delivery Speed,Review Websites,Yes
+Other,Under 18,Liberal Arts,"10,001-15,000 THB",More than 4 times,Clothing/Fashion,Mobile Applications,Price,Yes,No Impact,Evening/Night,Home,Not Satisfied,Customer Service,Review Websites,Yes
+Female,Under 18,Other,"Below 5,000 THB",2-4 times,Cosmetics,Other,Fast Delivery,No,Moderate Impact,Evening/Night,Home,Not Satisfied,Customer Service,Store Apps,Yes
+Female,23-25,Liberal Arts,"Above 15,000 THB",2-4 times,Electronics,Websites,Product Reviews,Yes,High Impact,Morning,Work,Very Satisfied,Payment,Store Apps,No
+Other,18-22,Science,"Above 15,000 THB",2-4 times,Cosmetics,Mobile Applications,Product Warranty,Yes,Moderate Impact,Late Night,Other,Moderately Satisfied,Delivery Speed,Other,No
+Male,Over 25,Liberal Arts,"Below 5,000 THB",More than 4 times,Daily Necessities,Websites,Price,No,No Impact,Morning,University,Moderately Satisfied,Payment,Social Media,Yes
+Male,Over 25,Liberal Arts,"5,000-10,000 THB",0-1 times,Clothing/Fashion,Mobile Applications,Product Reviews,Yes,No Impact,Morning,University,Very Satisfied,Customer Service,Other,Yes
+Other,Over 25,Other,"10,001-15,000 THB",0-1 times,Daily Necessities,Mobile Applications,Fast Delivery,No,Moderate Impact,Afternoon,University,Not Satisfied,Delivery Speed,Social Media,No
+Other,18-22,Engineering,"5,000-10,000 THB",2-4 times,Electronics,Mobile Applications,Product Warranty,No,High Impact,Late Night,Other,Very Satisfied,Delivery Speed,Social Media,Yes
+Female,Under 18,Science,"Above 15,000 THB",0-1 times,Daily Necessities,Other,Product Warranty,Yes,Moderate Impact,Evening/Night,Home,Very Satisfied,Customer Service,Review Websites,Yes
+Female,18-22,Liberal Arts,"Above 15,000 THB",2-4 times,Daily Necessities,Mobile Applications,Fast Delivery,Yes,Moderate Impact,Afternoon,University,Moderately Satisfied,Customer Service,Review Websites,No
+Other,23-25,Engineering,"10,001-15,000 THB",More than 4 times,Daily Necessities,Social Media,Discounts/Promotions,No,Moderate Impact,Late Night,Other,Very Satisfied,Ease of Selection,Social Media,No
+Other,Over 25,Liberal Arts,"Below 5,000 THB",More than 4 times,Electronics,Mobile Applications,Convenience,No,High Impact,Afternoon,Home,Moderately Satisfied,Delivery Speed,Review Websites,No
+Other,18-22,Engineering,"Above 15,000 THB",More than 4 times,Electronics,Websites,Product Reviews,No,Moderate Impact,Afternoon,University,Not Satisfied,Delivery Speed,Other,Yes
+Other,Over 25,Engineering,"5,000-10,000 THB",0-1 times,Books/Learning Materials,Social Media,Convenience,No,No Impact,Morning,Home,Not Satisfied,Delivery Speed,Store Apps,No
+Other,Over 25,Engineering,"Above 15,000 THB",More than 4 times,Books/Learning Materials,Social Media,Convenience,Yes,No Impact,Late Night,University,Very Satisfied,Customer Service,Other,Yes
+Male,Under 18,Other,"Above 15,000 THB",2-4 times,Cosmetics,Social Media,Price,Yes,Moderate Impact,Morning,Work,Very Satisfied,Delivery Speed,Other,Yes
+Male,Under 18,Engineering,"10,001-15,000 THB",More than 4 times,Electronics,Social Media,Product Reviews,Yes,No Impact,Late Night,University,Very Satisfied,Ease of Selection,Review Websites,Yes
+Other,Under 18,Engineering,"5,000-10,000 THB",0-1 times,Clothing/Fashion,Other,Discounts/Promotions,No,Moderate Impact,Evening/Night,Work,Very Satisfied,Payment,Other,Yes
+Female,Under 18,Liberal Arts,"Above 15,000 THB",More than 4 times,Books/Learning Materials,Social Media,Price,Yes,No Impact,Late Night,Other,Very Satisfied,Payment,Other,Yes
+Other,23-25,Liberal Arts,"Above 15,000 THB",2-4 times,Daily Necessities,Social Media,Convenience,No,High Impact,Afternoon,Work,Very Satisfied,Customer Service,Social Media,Yes
+Female,Over 25,Other,"Below 5,000 THB",2-4 times,Daily Necessities,Social Media,Fast Delivery,Yes,Moderate Impact,Late Night,Other,Moderately Satisfied,Delivery Speed,Store Apps,Yes
+Other,Over 25,Engineering,"5,000-10,000 THB",More than 4 times,Daily Necessities,Other,Product Reviews,No,High Impact,Evening/Night,Work,Not Satisfied,Delivery Speed,Review Websites,No
+Male,18-22,Engineering,"Below 5,000 THB",More than 4 times,Electronics,Websites,Product Warranty,Yes,No Impact,Late Night,Work,Not Satisfied,Customer Service,Other,Yes
+Other,Over 25,Engineering,"5,000-10,000 THB",0-1 times,Books/Learning Materials,Mobile Applications,Convenience,No,Moderate Impact,Morning,Work,Very Satisfied,Ease of Selection,Social Media,No
+Female,23-25,Other,"5,000-10,000 THB",2-4 times,Daily Necessities,Social Media,Product Reviews,No,Moderate Impact,Morning,University,Not Satisfied,Delivery Speed,Social Media,No
+Male,18-22,Other,"Below 5,000 THB",More than 4 times,Cosmetics,Social Media,Price,Yes,Moderate Impact,Late Night,Work,Moderately Satisfied,Ease of Selection,Store Apps,Yes
+Other,18-22,Liberal Arts,"5,000-10,000 THB",0-1 times,Daily Necessities,Websites,Product Warranty,Yes,Moderate Impact,Evening/Night,Other,Moderately Satisfied,Payment,Other,Yes
+Female,Over 25,Engineering,"10,001-15,000 THB",More than 4 times,Daily Necessities,Other,Price,No,No Impact,Late Night,Other,Not Satisfied,Customer Service,Social Media,Yes
+Female,23-25,Liberal Arts,"Below 5,000 THB",2-4 times,Daily Necessities,Mobile Applications,Product Reviews,No,Moderate Impact,Morning,Home,Moderately Satisfied,Customer Service,Store Apps,Yes
+Female,Over 25,Science,"10,001-15,000 THB",2-4 times,Daily Necessities,Mobile Applications,Price,No,No Impact,Morning,Home,Very Satisfied,Payment,Store Apps,Yes
+Female,23-25,Science,"Above 15,000 THB",0-1 times,Books/Learning Materials,Mobile Applications,Product Reviews,No,High Impact,Afternoon,University,Not Satisfied,Payment,Other,No
+Male,23-25,Engineering,"5,000-10,000 THB",0-1 times,Books/Learning Materials,Websites,Convenience,No,No Impact,Late Night,Other,Not Satisfied,Payment,Other,Yes
+Other,Over 25,Other,"10,001-15,000 THB",More than 4 times,Cosmetics,Social Media,Product Reviews,Yes,Moderate Impact,Late Night,Home,Very Satisfied,Customer Service,Review Websites,Yes
+Other,Under 18,Engineering,"5,000-10,000 THB",2-4 times,Books/Learning Materials,Social Media,Convenience,Yes,High Impact,Morning,Home,Moderately Satisfied,Payment,Review Websites,No
+Other,23-25,Other,"Below 5,000 THB",2-4 times,Cosmetics,Mobile Applications,Product Warranty,No,High Impact,Morning,University,Moderately Satisfied,Ease of Selection,Other,No
+Male,Over 25,Engineering,"Above 15,000 THB",2-4 times,Books/Learning Materials,Social Media,Convenience,No,Moderate Impact,Morning,Other,Moderately Satisfied,Payment,Other,No
+Male,Over 25,Science,"Below 5,000 THB",0-1 times,Books/Learning Materials,Websites,Product Reviews,No,High Impact,Morning,University,Moderately Satisfied,Customer Service,Review Websites,Yes
+Female,18-22,Liberal Arts,"10,001-15,000 THB",More than 4 times,Cosmetics,Other,Product Warranty,No,Moderate Impact,Evening/Night,University,Very Satisfied,Delivery Speed,Other,Yes
+Female,18-22,Other,"Below 5,000 THB",More than 4 times,Clothing/Fashion,Websites,Product Warranty,Yes,No Impact,Morning,Work,Very Satisfied,Customer Service,Social Media,Yes
+Other,Over 25,Science,"Above 15,000 THB",2-4 times,Electronics,Other,Discounts/Promotions,Yes,Moderate Impact,Late Night,University,Not Satisfied,Payment,Other,Yes
+Other,Over 25,Engineering,"10,001-15,000 THB",0-1 times,Clothing/Fashion,Social Media,Product Warranty,Yes,No Impact,Evening/Night,Other,Moderately Satisfied,Customer Service,Other,Yes
+Female,18-22,Engineering,"10,001-15,000 THB",2-4 times,Clothing/Fashion,Mobile Applications,Product Warranty,No,No Impact,Evening/Night,Work,Not Satisfied,Delivery Speed,Store Apps,Yes
+Male,23-25,Engineering,"Above 15,000 THB",More than 4 times,Electronics,Websites,Product Reviews,Yes,High Impact,Afternoon,Home,Very Satisfied,Payment,Store Apps,Yes
+Female,23-25,Liberal Arts,"5,000-10,000 THB",0-1 times,Electronics,Social Media,Fast Delivery,Yes,Moderate Impact,Morning,Work,Very Satisfied,Delivery Speed,Review Websites,Yes
+Male,Under 18,Liberal Arts,"Below 5,000 THB",0-1 times,Daily Necessities,Websites,Fast Delivery,Yes,Moderate Impact,Afternoon,Other,Not Satisfied,Ease of Selection,Social Media,Yes
+Male,18-22,Science,"Below 5,000 THB",More than 4 times,Cosmetics,Websites,Fast Delivery,Yes,No Impact,Morning,Other,Very Satisfied,Ease of Selection,Review Websites,Yes
+Male,Under 18,Other,"5,000-10,000 THB",0-1 times,Daily Necessities,Mobile Applications,Convenience,Yes,High Impact,Late Night,Work,Moderately Satisfied,Ease of Selection,Other,No
+Other,Under 18,Other,"Below 5,000 THB",2-4 times,Books/Learning Materials,Social Media,Fast Delivery,Yes,High Impact,Afternoon,Work,Not Satisfied,Payment,Review Websites,No
+Other,Under 18,Science,"5,000-10,000 THB",2-4 times,Daily Necessities,Other,Fast Delivery,Yes,No Impact,Afternoon,University,Very Satisfied,Payment,Other,No
+Female,18-22,Science,"Below 5,000 THB",More than 4 times,Electronics,Other,Product Reviews,Yes,High Impact,Late Night,Other,Very Satisfied,Ease of Selection,Review Websites,No
+Other,Under 18,Liberal Arts,"Above 15,000 THB",More than 4 times,Electronics,Other,Discounts/Promotions,No,High Impact,Afternoon,Other,Not Satisfied,Payment,Review Websites,No
+Male,18-22,Science,"5,000-10,000 THB",More than 4 times,Daily Necessities,Websites,Product Warranty,Yes,Moderate Impact,Morning,University,Not Satisfied,Ease of Selection,Store Apps,Yes
+Female,Over 25,Science,"Above 15,000 THB",2-4 times,Cosmetics,Social Media,Fast Delivery,No,Moderate Impact,Evening/Night,Work,Not Satisfied,Ease of Selection,Store Apps,Yes
+Male,Under 18,Engineering,"Below 5,000 THB",More than 4 times,Daily Necessities,Websites,Discounts/Promotions,Yes,No Impact,Late Night,Other,Moderately Satisfied,Customer Service,Social Media,Yes
+Male,18-22,Other,"Below 5,000 THB",0-1 times,Daily Necessities,Other,Product Reviews,No,No Impact,Late Night,Work,Very Satisfied,Payment,Other,No
+Male,23-25,Engineering,"10,001-15,000 THB",0-1 times,Books/Learning Materials,Social Media,Convenience,No,Moderate Impact,Evening/Night,Home,Moderately Satisfied,Ease of Selection,Review Websites,Yes
+Female,18-22,Liberal Arts,"Above 15,000 THB",2-4 times,Books/Learning Materials,Social Media,Convenience,No,Moderate Impact,Evening/Night,Home,Moderately Satisfied,Ease of Selection,Review Websites,Yes
+Other,Over 25,Other,"Above 15,000 THB",More than 4 times,Daily Necessities,Social Media,Convenience,No,Moderate Impact,Evening/Night,Work,Moderately Satisfied,Ease of Selection,Store Apps,No
+Male,18-22,Science,"Above 15,000 THB",2-4 times,Daily Necessities,Other,Price,Yes,No Impact,Late Night,Home,Not Satisfied,Delivery Speed,Other,No
+Other,18-22,Other,"Above 15,000 THB",0-1 times,Books/Learning Materials,Mobile Applications,Fast Delivery,No,Moderate Impact,Morning,University,Very Satisfied,Customer Service,Other,Yes
+Male,Over 25,Other,"Above 15,000 THB",2-4 times,Clothing/Fashion,Social Media,Convenience,Yes,High Impact,Afternoon,Work,Not Satisfied,Delivery Speed,Review Websites,Yes
+Female,Under 18,Science,"5,000-10,000 THB",More than 4 times,Daily Necessities,Websites,Convenience,No,High Impact,Late Night,University,Very Satisfied,Payment,Social Media,No
+Male,18-22,Science,"5,000-10,000 THB",2-4 times,Electronics,Social Media,Price,No,Moderate Impact,Late Night,Home,Moderately Satisfied,Payment,Review Websites,Yes
+Female,18-22,Liberal Arts,"10,001-15,000 THB",0-1 times,Cosmetics,Social Media,Product Warranty,Yes,No Impact,Late Night,Work,Not Satisfied,Ease of Selection,Social Media,Yes
+Female,Under 18,Science,"10,001-15,000 THB",2-4 times,Books/Learning Materials,Other,Convenience,Yes,No Impact,Evening/Night,Home,Very Satisfied,Payment,Review Websites,No
+Female,23-25,Other,"Below 5,000 THB",2-4 times,Daily Necessities,Other,Convenience,Yes,No Impact,Evening/Night,Work,Moderately Satisfied,Delivery Speed,Store Apps,Yes
+Female,18-22,Science,"Below 5,000 THB",0-1 times,Books/Learning Materials,Websites,Product Warranty,Yes,Moderate Impact,Afternoon,Work,Not Satisfied,Delivery Speed,Other,Yes
+Male,Under 18,Engineering,"10,001-15,000 THB",More than 4 times,Cosmetics,Social Media,Convenience,No,High Impact,Evening/Night,Work,Not Satisfied,Delivery Speed,Social Media,Yes
